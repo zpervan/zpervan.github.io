@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Digital Sandbox</title>
+    <link>https://zpervan.github.io/tags/</link>
+    <description>Recent content in Tags on Digital Sandbox</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 26 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://zpervan.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>esp01</title>
+      <link>https://zpervan.github.io/tags/esp01/</link>
+      <pubDate>Sun, 26 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://zpervan.github.io/tags/esp01/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>esp8266</title>
+      <link>https://zpervan.github.io/tags/esp8266/</link>
+      <pubDate>Sun, 26 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://zpervan.github.io/tags/esp8266/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>smart-home</title>
+      <link>https://zpervan.github.io/tags/smart-home/</link>
+      <pubDate>Sun, 26 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://zpervan.github.io/tags/smart-home/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>weather-station</title>
+      <link>https://zpervan.github.io/tags/weather-station/</link>
+      <pubDate>Sun, 26 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://zpervan.github.io/tags/weather-station/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

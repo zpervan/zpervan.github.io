@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>smart-home on Digital Sandbox</title>
+    <link>https://zpervan.github.io/tags/smart-home/</link>
+    <description>Recent content in smart-home on Digital Sandbox</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 26 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://zpervan.github.io/tags/smart-home/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Weather station - It&#39;s alive!</title>
+      <link>https://zpervan.github.io/posts/weatherstation_part1/</link>
+      <pubDate>Sun, 26 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://zpervan.github.io/posts/weatherstation_part1/</guid>
+      <description>As spring is now here, it was time for a new side project.</description>
+    </item>
+    
+  </channel>
+</rss>
