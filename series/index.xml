@@ -5,6 +5,16 @@
     <link>https://zpervan.github.io/series/</link>
     <description>Recent content in Series on Digital Sandbox</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://zpervan.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Mon, 17 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://zpervan.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Weather station</title>
+      <link>https://zpervan.github.io/series/weather-station/</link>
+      <pubDate>Mon, 17 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://zpervan.github.io/series/weather-station/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

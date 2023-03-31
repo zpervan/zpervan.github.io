@@ -3,13 +3,63 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     
+      <url>
+            <loc>https://zpervan.github.io/</loc>
+            <lastmod>2023-04-17T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
   
     
   
     
       <url>
             <loc>https://zpervan.github.io/posts/</loc>
-            <lastmod>2023-03-26T00:00:00+00:00</lastmod>
+            <lastmod>2023-04-17T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://zpervan.github.io/posts/weatherstation_part4/</loc>
+            <lastmod>2023-04-17T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://zpervan.github.io/posts/weatherstation_part3/</loc>
+            <lastmod>2023-04-13T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://zpervan.github.io/posts/weatherstation_part2/</loc>
+            <lastmod>2023-03-31T00:00:00+00:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
@@ -29,17 +79,6 @@
     
   
     
-  
-    
-      <url>
-            <loc>https://zpervan.github.io/</loc>
-            <lastmod>2023-03-23T12:45:54+01:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
       <url>
             <loc>https://zpervan.github.io/about/</loc>
             <changefreq>daily</changefreq>
@@ -51,6 +90,12 @@
   
     
   
+    
+      <url>
+            <loc>https://zpervan.github.io/portfolio/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
     
   
 </urlset>

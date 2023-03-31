@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio on Digital Sandbox</title>
+    <link>https://zpervan.github.io/portfolio/</link>
+    <description>Recent content in Portfolio on Digital Sandbox</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://zpervan.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Air quality monitoring</title>
+      <link>https://zpervan.github.io/portfolio/air_quality/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zpervan.github.io/portfolio/air_quality/</guid>
+      <description>Collects and visualizes the air quality data for the city Osijek. Technologies: C++ and CMake</description>
+    </item>
+    
+    <item>
+      <title>Block jump</title>
+      <link>https://zpervan.github.io/portfolio/block_jump/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zpervan.github.io/portfolio/block_jump/</guid>
+      <description>2D jump-and-run platformer game with a multiplayer option and map editor. Technologies: C++, Bazel and Golang</description>
+    </item>
+    
+    <item>
+      <title>Digital paper</title>
+      <link>https://zpervan.github.io/portfolio/digital_paper/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zpervan.github.io/portfolio/digital_paper/</guid>
+      <description>Blog web application which allows creating and managing posts and users. Technologies: Golang and React</description>
+    </item>
+    
+    <item>
+      <title>Game of life</title>
+      <link>https://zpervan.github.io/portfolio/game_of_life/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zpervan.github.io/portfolio/game_of_life/</guid>
+      <description>Desktop application which visualizes the cellular automaton algorithm. Technologies: C++ and Bazel</description>
+    </item>
+    
+    <item>
+      <title>Super-Duper weather station</title>
+      <link>https://zpervan.github.io/portfolio/sdws/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zpervan.github.io/portfolio/sdws/</guid>
+      <description>An ESP8266 based weather station with an accompanying server and visualization application. Technologies: C++ (Arduino), Golang and Rust</description>
+    </item>
+    
+  </channel>
+</rss>
